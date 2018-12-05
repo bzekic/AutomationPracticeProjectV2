@@ -1,0 +1,6 @@
+# Created by .ignore support plugin (hsz.mobi)
+/src/test/java/AutomationPracticeProject/Selenium_Config/selenium_driver.properties
+/.idea/
+/src/reports/
+/target/
+/src/test/java/AutomationPracticeProject/TestCukesJunitRunner.java
